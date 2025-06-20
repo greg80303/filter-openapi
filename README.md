@@ -1,4 +1,4 @@
-# Prepare OpenAPI Specification
+# Filter OpenAPI Specifications
 
 A command-line tool to filter and modify OpenAPI specification files. This tool is designed to help you tailor OpenAPI specifications for specific use cases by filtering out APIs and other information you do not need. A compliant OpenAPI specification is
 always produced.
